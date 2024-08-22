@@ -319,6 +319,11 @@ nav img {
 #metaMenu:hover + .el.s1{
   display: block;
 }   
+.s6{
+    background-color: #333;
+    color: #fff;
+    padding: 30px;
+}
 
 
 /* Media Queries */
